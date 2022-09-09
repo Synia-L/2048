@@ -3,7 +3,7 @@
 #include <unistd.h>
 #include <stdio.h>
 #include "move.h"
-
+#include <math.h>
 int data[4][4] = {0};
 int start_y, start_x;
 
