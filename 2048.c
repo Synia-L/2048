@@ -6,7 +6,7 @@
 #include <math.h>
 int data[4][4] = {0};
 int start_y, start_x;
-//test
+
 int main(int argc, char **argv) {  
   initscr();
 

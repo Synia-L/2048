@@ -4,8 +4,6 @@
 #include <string.h>
 #include <time.h>
 #include <unistd.h>
-//test
-//tttt
 #include <stdio.h>
 
 void init_table() {
